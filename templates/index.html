@@ -1,1 +1,91 @@
-<h1>Two Minute Drill</h1>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Two Minute Drill</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Tiny5&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <main class="stage" id="stage">
+    <canvas id="field" aria-hidden="true"></canvas>
+
+    <!-- Scoreboard -->
+    <section class="scoreboard" aria-label="Scoreboard">
+      <div class="sb-box frame">
+      <div class="sb-teams">
+        <div class="sb-team home"><span class="sb-name">HOME</span><span class="sb-score" id="homeScore">17</span></div>
+        <div class="sb-team away"><span class="sb-name">AWAY</span><span class="sb-score" id="awayScore">21</span></div>
+      </div>
+      <div class="sb-clock"><span>4TH</span><span id="clock">2:00</span></div>
+      <div class="sb-ball" id="ballOn">OWN 25 · 75 TO GO</div>
+      </div>
+      <div class="runoff" id="runoff" aria-hidden="true"></div>
+    </section>
+
+    <!-- Question bubble -->
+    <section class="question" id="questionBox" aria-live="polite">
+      <p id="questionText">Your first question appears at kickoff.</p>
+    </section>
+
+    <!-- Result of the last play -->
+    <div class="result" id="result" aria-live="assertive">
+      <div class="result-title" id="resultTitle"></div>
+      <div class="result-sub" id="resultSub"></div>
+      <div class="result-note" id="resultNote"></div>
+    </div>
+
+    <!-- Answer input -->
+    <form class="answer" id="answerForm" autocomplete="off">
+      <ul class="suggestions" id="suggestions" role="listbox" hidden></ul>
+      <input id="answerInput" type="text" placeholder="TYPE A PLAYER + ENTER"
+             aria-label="Your answer" aria-autocomplete="list" aria-controls="suggestions"
+             aria-expanded="false" enterkeyhint="go" spellcheck="false" disabled>
+      <button type="button" class="caret" id="caretBtn" aria-label="Show name suggestions" disabled>
+        <svg viewBox="0 0 7 4" shape-rendering="crispEdges" aria-hidden="true"><path d="M0 0h7v1H6v1H5v1H4v1H3V3H2V2H1V1H0z" fill="#fff"/></svg>
+      </button>
+    </form>
+
+    <!-- Start screen -->
+    <div class="overlay" id="startScreen">
+      <div class="card">
+        <div class="eyebrow">4TH QUARTER · DOWN BY 4</div>
+        <h1>Two Minute Drill</h1>
+        <p>You're on your own 25 with two minutes left. Answer football questions to drive 75 yards for the winning touchdown.</p>
+        <ul class="rules">
+          <li><b>Common answer</b><span>5–10 yards</span></li>
+          <li><b>Obscure answer</b><span>Big play</span></li>
+          <li><b>Rarest answer</b><span>Hail Mary TD</span></li>
+          <li><b>Wrong answer</b><span>Incomplete</span></li>
+        </ul>
+        <button class="btn" id="startBtn" type="button">Take the field</button>
+        <p class="error" id="startError" role="alert"></p>
+      </div>
+    </div>
+
+    <!-- End screen -->
+    <div class="overlay" id="endScreen" hidden>
+      <div class="card">
+        <div class="eyebrow">FINAL</div>
+        <h1 id="endTitle">Touchdown!</h1>
+        <div class="end-score" id="endScore">HOME 23 – 21 AWAY</div>
+        <p id="endSub"></p>
+        <div class="stats">
+          <div class="stat"><div class="stat-val" id="statPlays">0</div><div class="stat-label">Plays</div></div>
+          <div class="stat"><div class="stat-val" id="statYards">0</div><div class="stat-label">Yards gained</div></div>
+          <div class="stat"><div class="stat-val" id="statClock">0:00</div><div class="stat-label">Clock left</div></div>
+          <div class="stat"><div class="stat-val name" id="statBest">—</div><div class="stat-label" id="statBestLabel">Best answer</div></div>
+        </div>
+        <button class="btn" id="againBtn" type="button">Play again</button>
+      </div>
+    </div>
+  </main>
+
+  <script src="{{ url_for('static', filename='js/api.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/field.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/game.js') }}"></script>
+</body>
+</html>
