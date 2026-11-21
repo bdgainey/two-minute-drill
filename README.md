@@ -30,3 +30,9 @@ The frontend runs the 2:00 clock and pauses it while an answer is checked and wh
 It sends `clockRemaining` with each answer in case the backend wants it.
 After every play, 10 seconds run off (`RUNOFF_SECONDS` in `game.js`).
 You lose when the clock reaches 0:00.
+
+## Question generator
+
+There is a question generator script inside build_questions.py. It takes information from the nflreadpy library and makes questions
+based on the template in the function. Right now it has TD from a QB, played for team A and team B, and 100-yd games (rushing/receiving) vs. a team.
+Questions are generated to questions.json.
