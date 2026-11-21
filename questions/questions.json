@@ -1,0 +1,5402 @@
+[
+  {
+    "id": "td-00-0023459",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Aaron Rodgers.",
+    "params": {
+      "qb_id": "00-0023459",
+      "qb_name": "Aaron Rodgers"
+    }
+  },
+  {
+    "id": "td-00-0023436",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Alex Smith.",
+    "params": {
+      "qb_id": "00-0023436",
+      "qb_name": "Alex Smith"
+    }
+  },
+  {
+    "id": "td-00-0029668",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Andrew Luck.",
+    "params": {
+      "qb_id": "00-0029668",
+      "qb_name": "Andrew Luck"
+    }
+  },
+  {
+    "id": "td-00-0027973",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Andy Dalton.",
+    "params": {
+      "qb_id": "00-0027973",
+      "qb_name": "Andy Dalton"
+    }
+  },
+  {
+    "id": "td-00-0034855",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Baker Mayfield.",
+    "params": {
+      "qb_id": "00-0034855",
+      "qb_name": "Baker Mayfield"
+    }
+  },
+  {
+    "id": "td-00-0022924",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Ben Roethlisberger.",
+    "params": {
+      "qb_id": "00-0022924",
+      "qb_name": "Ben Roethlisberger"
+    }
+  },
+  {
+    "id": "td-00-0005106",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Brett Favre.",
+    "params": {
+      "qb_id": "00-0005106",
+      "qb_name": "Brett Favre"
+    }
+  },
+  {
+    "id": "td-00-0027939",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Cam Newton.",
+    "params": {
+      "qb_id": "00-0027939",
+      "qb_name": "Cam Newton"
+    }
+  },
+  {
+    "id": "td-00-0021429",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Carson Palmer.",
+    "params": {
+      "qb_id": "00-0021429",
+      "qb_name": "Carson Palmer"
+    }
+  },
+  {
+    "id": "td-00-0032950",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Carson Wentz.",
+    "params": {
+      "qb_id": "00-0032950",
+      "qb_name": "Carson Wentz"
+    }
+  },
+  {
+    "id": "td-00-0033077",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Dak Prescott.",
+    "params": {
+      "qb_id": "00-0033077",
+      "qb_name": "Dak Prescott"
+    }
+  },
+  {
+    "id": "td-00-0003739",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Daunte Culpepper.",
+    "params": {
+      "qb_id": "00-0003739",
+      "qb_name": "Daunte Culpepper"
+    }
+  },
+  {
+    "id": "td-00-0031280",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Derek Carr.",
+    "params": {
+      "qb_id": "00-0031280",
+      "qb_name": "Derek Carr"
+    }
+  },
+  {
+    "id": "td-00-0011022",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Donovan McNabb.",
+    "params": {
+      "qb_id": "00-0011022",
+      "qb_name": "Donovan McNabb"
+    }
+  },
+  {
+    "id": "td-00-0020531",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Drew Brees.",
+    "params": {
+      "qb_id": "00-0020531",
+      "qb_name": "Drew Brees"
+    }
+  },
+  {
+    "id": "td-00-0022803",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Eli Manning.",
+    "params": {
+      "qb_id": "00-0022803",
+      "qb_name": "Eli Manning"
+    }
+  },
+  {
+    "id": "td-00-0031503",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Jameis Winston.",
+    "params": {
+      "qb_id": "00-0031503",
+      "qb_name": "Jameis Winston"
+    }
+  },
+  {
+    "id": "td-00-0033106",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Jared Goff.",
+    "params": {
+      "qb_id": "00-0033106",
+      "qb_name": "Jared Goff"
+    }
+  },
+  {
+    "id": "td-00-0024226",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Jay Cutler.",
+    "params": {
+      "qb_id": "00-0024226",
+      "qb_name": "Jay Cutler"
+    }
+  },
+  {
+    "id": "td-00-0005755",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Jeff Garcia.",
+    "params": {
+      "qb_id": "00-0005755",
+      "qb_name": "Jeff Garcia"
+    }
+  },
+  {
+    "id": "td-00-0036442",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Joe Burrow.",
+    "params": {
+      "qb_id": "00-0036442",
+      "qb_name": "Joe Burrow"
+    }
+  },
+  {
+    "id": "td-00-0026158",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Joe Flacco.",
+    "params": {
+      "qb_id": "00-0026158",
+      "qb_name": "Joe Flacco"
+    }
+  },
+  {
+    "id": "td-00-0009311",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Jon Kitna.",
+    "params": {
+      "qb_id": "00-0009311",
+      "qb_name": "Jon Kitna"
+    }
+  },
+  {
+    "id": "td-00-0034857",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Josh Allen.",
+    "params": {
+      "qb_id": "00-0034857",
+      "qb_name": "Josh Allen"
+    }
+  },
+  {
+    "id": "td-00-0036355",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Justin Herbert.",
+    "params": {
+      "qb_id": "00-0036355",
+      "qb_name": "Justin Herbert"
+    }
+  },
+  {
+    "id": "td-00-0003292",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Kerry Collins.",
+    "params": {
+      "qb_id": "00-0003292",
+      "qb_name": "Kerry Collins"
+    }
+  },
+  {
+    "id": "td-00-0029604",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Kirk Cousins.",
+    "params": {
+      "qb_id": "00-0029604",
+      "qb_name": "Kirk Cousins"
+    }
+  },
+  {
+    "id": "td-00-0017200",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Kurt Warner.",
+    "params": {
+      "qb_id": "00-0017200",
+      "qb_name": "Kurt Warner"
+    }
+  },
+  {
+    "id": "td-00-0034796",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Lamar Jackson.",
+    "params": {
+      "qb_id": "00-0034796",
+      "qb_name": "Lamar Jackson"
+    }
+  },
+  {
+    "id": "td-00-0007091",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Matt Hasselbeck.",
+    "params": {
+      "qb_id": "00-0007091",
+      "qb_name": "Matt Hasselbeck"
+    }
+  },
+  {
+    "id": "td-00-0026143",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Matt Ryan.",
+    "params": {
+      "qb_id": "00-0026143",
+      "qb_name": "Matt Ryan"
+    }
+  },
+  {
+    "id": "td-00-0026498",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Matthew Stafford.",
+    "params": {
+      "qb_id": "00-0026498",
+      "qb_name": "Matthew Stafford"
+    }
+  },
+  {
+    "id": "td-00-0033873",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Patrick Mahomes.",
+    "params": {
+      "qb_id": "00-0033873",
+      "qb_name": "Patrick Mahomes"
+    }
+  },
+  {
+    "id": "td-00-0010346",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Peyton Manning.",
+    "params": {
+      "qb_id": "00-0010346",
+      "qb_name": "Peyton Manning"
+    }
+  },
+  {
+    "id": "td-00-0022942",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Philip Rivers.",
+    "params": {
+      "qb_id": "00-0022942",
+      "qb_name": "Philip Rivers"
+    }
+  },
+  {
+    "id": "td-00-0029263",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Russell Wilson.",
+    "params": {
+      "qb_id": "00-0029263",
+      "qb_name": "Russell Wilson"
+    }
+  },
+  {
+    "id": "td-00-0023682",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Ryan Fitzpatrick.",
+    "params": {
+      "qb_id": "00-0023682",
+      "qb_name": "Ryan Fitzpatrick"
+    }
+  },
+  {
+    "id": "td-00-0029701",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Ryan Tannehill.",
+    "params": {
+      "qb_id": "00-0029701",
+      "qb_name": "Ryan Tannehill"
+    }
+  },
+  {
+    "id": "td-00-0019596",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Tom Brady.",
+    "params": {
+      "qb_id": "00-0019596",
+      "qb_name": "Tom Brady"
+    }
+  },
+  {
+    "id": "td-00-0021678",
+    "template": "td_from_qb",
+    "text": "Name a player who caught a touchdown pass from Tony Romo.",
+    "params": {
+      "qb_id": "00-0021678",
+      "qb_name": "Tony Romo"
+    }
+  },
+  {
+    "id": "teams-ARI-ATL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Falcons.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "ATL"
+    }
+  },
+  {
+    "id": "teams-ARI-BAL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Ravens.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "BAL"
+    }
+  },
+  {
+    "id": "teams-ARI-BUF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Bills.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "BUF"
+    }
+  },
+  {
+    "id": "teams-ARI-CAR",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Panthers.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "CAR"
+    }
+  },
+  {
+    "id": "teams-ARI-CHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Bears.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "CHI"
+    }
+  },
+  {
+    "id": "teams-ARI-CIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Bengals.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "CIN"
+    }
+  },
+  {
+    "id": "teams-ARI-CLE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Browns.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "CLE"
+    }
+  },
+  {
+    "id": "teams-ARI-DAL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Cowboys.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "DAL"
+    }
+  },
+  {
+    "id": "teams-ARI-DEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Broncos.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "DEN"
+    }
+  },
+  {
+    "id": "teams-ARI-DET",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Lions.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "DET"
+    }
+  },
+  {
+    "id": "teams-ARI-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Packers.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-ARI-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Texans.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-ARI-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Colts.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-ARI-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Jaguars.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-ARI-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Chiefs.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-ARI-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Rams.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-ARI-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Chargers.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-ARI-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Raiders.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-ARI-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Dolphins.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-ARI-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Vikings.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-ARI-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Patriots.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-ARI-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Saints.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-ARI-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Giants.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-ARI-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Jets.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-ARI-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Eagles.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-ARI-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Steelers.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-ARI-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Seahawks.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-ARI-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the 49ers.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-ARI-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Buccaneers.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-ARI-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Titans.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-ARI-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cardinals and the Commanders.",
+    "params": {
+      "team_a": "ARI",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-ATL-BAL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Ravens.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "BAL"
+    }
+  },
+  {
+    "id": "teams-ATL-BUF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Bills.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "BUF"
+    }
+  },
+  {
+    "id": "teams-ATL-CAR",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Panthers.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "CAR"
+    }
+  },
+  {
+    "id": "teams-ATL-CHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Bears.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "CHI"
+    }
+  },
+  {
+    "id": "teams-ATL-CIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Bengals.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "CIN"
+    }
+  },
+  {
+    "id": "teams-ATL-CLE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Browns.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "CLE"
+    }
+  },
+  {
+    "id": "teams-ATL-DAL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Cowboys.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "DAL"
+    }
+  },
+  {
+    "id": "teams-ATL-DEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Broncos.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "DEN"
+    }
+  },
+  {
+    "id": "teams-ATL-DET",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Lions.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "DET"
+    }
+  },
+  {
+    "id": "teams-ATL-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Packers.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-ATL-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Texans.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-ATL-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Colts.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-ATL-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Jaguars.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-ATL-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Chiefs.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-ATL-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Rams.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-ATL-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Chargers.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-ATL-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Raiders.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-ATL-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Dolphins.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-ATL-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Vikings.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-ATL-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Patriots.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-ATL-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Saints.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-ATL-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Giants.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-ATL-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Jets.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-ATL-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Eagles.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-ATL-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Steelers.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-ATL-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Seahawks.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-ATL-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the 49ers.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-ATL-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Buccaneers.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-ATL-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Titans.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-ATL-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Falcons and the Commanders.",
+    "params": {
+      "team_a": "ATL",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-BAL-BUF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Bills.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "BUF"
+    }
+  },
+  {
+    "id": "teams-BAL-CAR",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Panthers.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "CAR"
+    }
+  },
+  {
+    "id": "teams-BAL-CHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Bears.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "CHI"
+    }
+  },
+  {
+    "id": "teams-BAL-CIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Bengals.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "CIN"
+    }
+  },
+  {
+    "id": "teams-BAL-CLE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Browns.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "CLE"
+    }
+  },
+  {
+    "id": "teams-BAL-DAL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Cowboys.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "DAL"
+    }
+  },
+  {
+    "id": "teams-BAL-DEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Broncos.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "DEN"
+    }
+  },
+  {
+    "id": "teams-BAL-DET",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Lions.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "DET"
+    }
+  },
+  {
+    "id": "teams-BAL-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Packers.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-BAL-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Texans.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-BAL-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Colts.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-BAL-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Jaguars.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-BAL-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Chiefs.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-BAL-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Rams.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-BAL-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Chargers.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-BAL-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Raiders.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-BAL-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Dolphins.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-BAL-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Vikings.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-BAL-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Patriots.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-BAL-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Saints.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-BAL-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Giants.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-BAL-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Jets.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-BAL-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Eagles.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-BAL-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Steelers.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-BAL-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Seahawks.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-BAL-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the 49ers.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-BAL-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Buccaneers.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-BAL-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Titans.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-BAL-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Ravens and the Commanders.",
+    "params": {
+      "team_a": "BAL",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-BUF-CAR",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Panthers.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "CAR"
+    }
+  },
+  {
+    "id": "teams-BUF-CHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Bears.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "CHI"
+    }
+  },
+  {
+    "id": "teams-BUF-CIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Bengals.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "CIN"
+    }
+  },
+  {
+    "id": "teams-BUF-CLE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Browns.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "CLE"
+    }
+  },
+  {
+    "id": "teams-BUF-DAL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Cowboys.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "DAL"
+    }
+  },
+  {
+    "id": "teams-BUF-DEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Broncos.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "DEN"
+    }
+  },
+  {
+    "id": "teams-BUF-DET",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Lions.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "DET"
+    }
+  },
+  {
+    "id": "teams-BUF-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Packers.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-BUF-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Texans.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-BUF-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Colts.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-BUF-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Jaguars.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-BUF-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Chiefs.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-BUF-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Rams.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-BUF-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Chargers.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-BUF-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Raiders.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-BUF-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Dolphins.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-BUF-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Vikings.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-BUF-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Patriots.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-BUF-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Saints.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-BUF-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Giants.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-BUF-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Jets.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-BUF-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Eagles.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-BUF-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Steelers.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-BUF-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Seahawks.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-BUF-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the 49ers.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-BUF-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Buccaneers.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-BUF-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Titans.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-BUF-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bills and the Commanders.",
+    "params": {
+      "team_a": "BUF",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-CAR-CHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Bears.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "CHI"
+    }
+  },
+  {
+    "id": "teams-CAR-CIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Bengals.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "CIN"
+    }
+  },
+  {
+    "id": "teams-CAR-CLE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Browns.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "CLE"
+    }
+  },
+  {
+    "id": "teams-CAR-DAL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Cowboys.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "DAL"
+    }
+  },
+  {
+    "id": "teams-CAR-DEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Broncos.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "DEN"
+    }
+  },
+  {
+    "id": "teams-CAR-DET",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Lions.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "DET"
+    }
+  },
+  {
+    "id": "teams-CAR-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Packers.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-CAR-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Texans.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-CAR-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Colts.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-CAR-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Jaguars.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-CAR-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Chiefs.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-CAR-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Rams.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-CAR-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Chargers.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-CAR-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Raiders.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-CAR-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Dolphins.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-CAR-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Vikings.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-CAR-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Patriots.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-CAR-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Saints.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-CAR-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Giants.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-CAR-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Jets.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-CAR-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Eagles.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-CAR-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Steelers.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-CAR-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Seahawks.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-CAR-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the 49ers.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-CAR-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Buccaneers.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-CAR-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Titans.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-CAR-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Panthers and the Commanders.",
+    "params": {
+      "team_a": "CAR",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-CHI-CIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Bengals.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "CIN"
+    }
+  },
+  {
+    "id": "teams-CHI-CLE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Browns.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "CLE"
+    }
+  },
+  {
+    "id": "teams-CHI-DAL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Cowboys.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "DAL"
+    }
+  },
+  {
+    "id": "teams-CHI-DEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Broncos.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "DEN"
+    }
+  },
+  {
+    "id": "teams-CHI-DET",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Lions.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "DET"
+    }
+  },
+  {
+    "id": "teams-CHI-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Packers.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-CHI-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Texans.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-CHI-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Colts.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-CHI-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Jaguars.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-CHI-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Chiefs.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-CHI-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Rams.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-CHI-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Chargers.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-CHI-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Raiders.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-CHI-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Dolphins.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-CHI-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Vikings.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-CHI-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Patriots.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-CHI-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Saints.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-CHI-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Giants.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-CHI-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Jets.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-CHI-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Eagles.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-CHI-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Steelers.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-CHI-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Seahawks.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-CHI-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the 49ers.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-CHI-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Buccaneers.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-CHI-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Titans.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-CHI-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bears and the Commanders.",
+    "params": {
+      "team_a": "CHI",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-CIN-CLE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Browns.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "CLE"
+    }
+  },
+  {
+    "id": "teams-CIN-DAL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Cowboys.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "DAL"
+    }
+  },
+  {
+    "id": "teams-CIN-DEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Broncos.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "DEN"
+    }
+  },
+  {
+    "id": "teams-CIN-DET",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Lions.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "DET"
+    }
+  },
+  {
+    "id": "teams-CIN-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Packers.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-CIN-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Texans.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-CIN-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Colts.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-CIN-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Jaguars.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-CIN-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Chiefs.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-CIN-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Rams.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-CIN-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Chargers.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-CIN-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Raiders.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-CIN-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Dolphins.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-CIN-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Vikings.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-CIN-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Patriots.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-CIN-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Saints.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-CIN-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Giants.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-CIN-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Jets.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-CIN-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Eagles.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-CIN-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Steelers.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-CIN-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Seahawks.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-CIN-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the 49ers.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-CIN-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Buccaneers.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-CIN-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Titans.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-CIN-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Bengals and the Commanders.",
+    "params": {
+      "team_a": "CIN",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-CLE-DAL",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Cowboys.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "DAL"
+    }
+  },
+  {
+    "id": "teams-CLE-DEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Broncos.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "DEN"
+    }
+  },
+  {
+    "id": "teams-CLE-DET",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Lions.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "DET"
+    }
+  },
+  {
+    "id": "teams-CLE-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Packers.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-CLE-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Texans.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-CLE-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Colts.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-CLE-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Jaguars.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-CLE-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Chiefs.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-CLE-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Rams.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-CLE-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Chargers.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-CLE-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Raiders.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-CLE-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Dolphins.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-CLE-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Vikings.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-CLE-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Patriots.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-CLE-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Saints.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-CLE-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Giants.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-CLE-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Jets.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-CLE-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Eagles.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-CLE-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Steelers.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-CLE-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Seahawks.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-CLE-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the 49ers.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-CLE-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Buccaneers.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-CLE-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Titans.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-CLE-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Browns and the Commanders.",
+    "params": {
+      "team_a": "CLE",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-DAL-DEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Broncos.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "DEN"
+    }
+  },
+  {
+    "id": "teams-DAL-DET",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Lions.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "DET"
+    }
+  },
+  {
+    "id": "teams-DAL-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Packers.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-DAL-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Texans.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-DAL-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Colts.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-DAL-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Jaguars.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-DAL-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Chiefs.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-DAL-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Rams.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-DAL-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Chargers.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-DAL-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Raiders.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-DAL-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Dolphins.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-DAL-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Vikings.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-DAL-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Patriots.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-DAL-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Saints.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-DAL-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Giants.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-DAL-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Jets.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-DAL-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Eagles.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-DAL-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Steelers.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-DAL-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Seahawks.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-DAL-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the 49ers.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-DAL-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Buccaneers.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-DAL-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Titans.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-DAL-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Cowboys and the Commanders.",
+    "params": {
+      "team_a": "DAL",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-DEN-DET",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Lions.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "DET"
+    }
+  },
+  {
+    "id": "teams-DEN-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Packers.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-DEN-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Texans.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-DEN-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Colts.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-DEN-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Jaguars.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-DEN-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Chiefs.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-DEN-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Rams.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-DEN-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Chargers.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-DEN-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Raiders.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-DEN-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Dolphins.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-DEN-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Vikings.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-DEN-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Patriots.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-DEN-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Saints.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-DEN-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Giants.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-DEN-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Jets.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-DEN-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Eagles.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-DEN-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Steelers.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-DEN-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Seahawks.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-DEN-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the 49ers.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-DEN-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Buccaneers.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-DEN-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Titans.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-DEN-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Broncos and the Commanders.",
+    "params": {
+      "team_a": "DEN",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-DET-GB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Packers.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "GB"
+    }
+  },
+  {
+    "id": "teams-DET-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Texans.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-DET-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Colts.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-DET-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Jaguars.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-DET-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Chiefs.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-DET-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Rams.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-DET-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Chargers.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-DET-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Raiders.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-DET-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Dolphins.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-DET-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Vikings.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-DET-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Patriots.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-DET-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Saints.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-DET-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Giants.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-DET-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Jets.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-DET-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Eagles.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-DET-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Steelers.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-DET-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Seahawks.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-DET-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the 49ers.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-DET-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Buccaneers.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-DET-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Titans.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-DET-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Lions and the Commanders.",
+    "params": {
+      "team_a": "DET",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-GB-HOU",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Texans.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "HOU"
+    }
+  },
+  {
+    "id": "teams-GB-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Colts.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-GB-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Jaguars.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-GB-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Chiefs.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-GB-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Rams.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-GB-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Chargers.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-GB-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Raiders.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-GB-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Dolphins.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-GB-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Vikings.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-GB-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Patriots.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-GB-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Saints.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-GB-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Giants.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-GB-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Jets.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-GB-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Eagles.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-GB-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Steelers.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-GB-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Seahawks.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-GB-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the 49ers.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-GB-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Buccaneers.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-GB-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Titans.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-GB-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Packers and the Commanders.",
+    "params": {
+      "team_a": "GB",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-HOU-IND",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Colts.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "IND"
+    }
+  },
+  {
+    "id": "teams-HOU-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Jaguars.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-HOU-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Chiefs.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-HOU-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Rams.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-HOU-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Chargers.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-HOU-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Raiders.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-HOU-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Dolphins.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-HOU-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Vikings.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-HOU-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Patriots.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-HOU-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Saints.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-HOU-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Giants.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-HOU-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Jets.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-HOU-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Eagles.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-HOU-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Steelers.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-HOU-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Seahawks.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-HOU-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the 49ers.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-HOU-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Buccaneers.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-HOU-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Titans.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-HOU-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Texans and the Commanders.",
+    "params": {
+      "team_a": "HOU",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-IND-JAX",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Jaguars.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "JAX"
+    }
+  },
+  {
+    "id": "teams-IND-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Chiefs.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-IND-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Rams.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-IND-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Chargers.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-IND-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Raiders.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-IND-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Dolphins.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-IND-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Vikings.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-IND-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Patriots.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-IND-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Saints.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-IND-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Giants.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-IND-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Jets.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-IND-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Eagles.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-IND-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Steelers.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-IND-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Seahawks.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-IND-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the 49ers.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-IND-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Buccaneers.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-IND-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Titans.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-IND-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Colts and the Commanders.",
+    "params": {
+      "team_a": "IND",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-JAX-KC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Chiefs.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "KC"
+    }
+  },
+  {
+    "id": "teams-JAX-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Rams.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-JAX-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Chargers.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-JAX-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Raiders.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-JAX-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Dolphins.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-JAX-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Vikings.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-JAX-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Patriots.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-JAX-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Saints.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-JAX-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Giants.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-JAX-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Jets.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-JAX-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Eagles.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-JAX-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Steelers.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-JAX-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Seahawks.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-JAX-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the 49ers.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-JAX-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Buccaneers.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-JAX-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Titans.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-JAX-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jaguars and the Commanders.",
+    "params": {
+      "team_a": "JAX",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-KC-LA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Rams.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "LA"
+    }
+  },
+  {
+    "id": "teams-KC-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Chargers.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-KC-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Raiders.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-KC-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Dolphins.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-KC-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Vikings.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-KC-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Patriots.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-KC-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Saints.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-KC-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Giants.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-KC-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Jets.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-KC-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Eagles.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-KC-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Steelers.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-KC-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Seahawks.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-KC-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the 49ers.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-KC-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Buccaneers.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-KC-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Titans.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-KC-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chiefs and the Commanders.",
+    "params": {
+      "team_a": "KC",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-LA-LAC",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Chargers.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "LAC"
+    }
+  },
+  {
+    "id": "teams-LA-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Raiders.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-LA-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Dolphins.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-LA-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Vikings.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-LA-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Patriots.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-LA-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Saints.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-LA-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Giants.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-LA-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Jets.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-LA-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Eagles.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-LA-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Steelers.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-LA-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Seahawks.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-LA-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the 49ers.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-LA-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Buccaneers.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-LA-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Titans.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-LA-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Rams and the Commanders.",
+    "params": {
+      "team_a": "LA",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-LAC-LV",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Raiders.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "LV"
+    }
+  },
+  {
+    "id": "teams-LAC-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Dolphins.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-LAC-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Vikings.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-LAC-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Patriots.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-LAC-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Saints.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-LAC-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Giants.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-LAC-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Jets.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-LAC-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Eagles.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-LAC-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Steelers.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-LAC-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Seahawks.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-LAC-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the 49ers.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-LAC-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Buccaneers.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-LAC-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Titans.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-LAC-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Chargers and the Commanders.",
+    "params": {
+      "team_a": "LAC",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-LV-MIA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Dolphins.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "MIA"
+    }
+  },
+  {
+    "id": "teams-LV-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Vikings.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-LV-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Patriots.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-LV-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Saints.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-LV-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Giants.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-LV-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Jets.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-LV-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Eagles.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-LV-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Steelers.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-LV-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Seahawks.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-LV-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the 49ers.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-LV-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Buccaneers.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-LV-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Titans.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-LV-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Raiders and the Commanders.",
+    "params": {
+      "team_a": "LV",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-MIA-MIN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Vikings.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "MIN"
+    }
+  },
+  {
+    "id": "teams-MIA-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Patriots.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-MIA-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Saints.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-MIA-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Giants.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-MIA-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Jets.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-MIA-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Eagles.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-MIA-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Steelers.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-MIA-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Seahawks.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-MIA-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the 49ers.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-MIA-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Buccaneers.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-MIA-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Titans.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-MIA-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Dolphins and the Commanders.",
+    "params": {
+      "team_a": "MIA",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-MIN-NE",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the Patriots.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "NE"
+    }
+  },
+  {
+    "id": "teams-MIN-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the Saints.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-MIN-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the Giants.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-MIN-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the Jets.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-MIN-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the Eagles.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-MIN-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the Steelers.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-MIN-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the Seahawks.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-MIN-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the 49ers.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-MIN-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the Buccaneers.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-MIN-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the Titans.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-MIN-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Vikings and the Commanders.",
+    "params": {
+      "team_a": "MIN",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-NE-NO",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Patriots and the Saints.",
+    "params": {
+      "team_a": "NE",
+      "team_b": "NO"
+    }
+  },
+  {
+    "id": "teams-NE-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Patriots and the Giants.",
+    "params": {
+      "team_a": "NE",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-NE-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Patriots and the Jets.",
+    "params": {
+      "team_a": "NE",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-NE-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Patriots and the Eagles.",
+    "params": {
+      "team_a": "NE",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-NE-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Patriots and the Steelers.",
+    "params": {
+      "team_a": "NE",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-NE-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Patriots and the Seahawks.",
+    "params": {
+      "team_a": "NE",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-NE-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Patriots and the 49ers.",
+    "params": {
+      "team_a": "NE",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-NE-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Patriots and the Buccaneers.",
+    "params": {
+      "team_a": "NE",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-NE-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Patriots and the Titans.",
+    "params": {
+      "team_a": "NE",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-NE-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Patriots and the Commanders.",
+    "params": {
+      "team_a": "NE",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-NO-NYG",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Saints and the Giants.",
+    "params": {
+      "team_a": "NO",
+      "team_b": "NYG"
+    }
+  },
+  {
+    "id": "teams-NO-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Saints and the Jets.",
+    "params": {
+      "team_a": "NO",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-NO-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Saints and the Eagles.",
+    "params": {
+      "team_a": "NO",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-NO-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Saints and the Steelers.",
+    "params": {
+      "team_a": "NO",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-NO-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Saints and the Seahawks.",
+    "params": {
+      "team_a": "NO",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-NO-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Saints and the 49ers.",
+    "params": {
+      "team_a": "NO",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-NO-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Saints and the Buccaneers.",
+    "params": {
+      "team_a": "NO",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-NO-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Saints and the Titans.",
+    "params": {
+      "team_a": "NO",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-NO-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Saints and the Commanders.",
+    "params": {
+      "team_a": "NO",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-NYG-NYJ",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Giants and the Jets.",
+    "params": {
+      "team_a": "NYG",
+      "team_b": "NYJ"
+    }
+  },
+  {
+    "id": "teams-NYG-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Giants and the Eagles.",
+    "params": {
+      "team_a": "NYG",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-NYG-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Giants and the Steelers.",
+    "params": {
+      "team_a": "NYG",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-NYG-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Giants and the Seahawks.",
+    "params": {
+      "team_a": "NYG",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-NYG-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Giants and the 49ers.",
+    "params": {
+      "team_a": "NYG",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-NYG-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Giants and the Buccaneers.",
+    "params": {
+      "team_a": "NYG",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-NYG-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Giants and the Titans.",
+    "params": {
+      "team_a": "NYG",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-NYG-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Giants and the Commanders.",
+    "params": {
+      "team_a": "NYG",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-NYJ-PHI",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jets and the Eagles.",
+    "params": {
+      "team_a": "NYJ",
+      "team_b": "PHI"
+    }
+  },
+  {
+    "id": "teams-NYJ-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jets and the Steelers.",
+    "params": {
+      "team_a": "NYJ",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-NYJ-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jets and the Seahawks.",
+    "params": {
+      "team_a": "NYJ",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-NYJ-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jets and the 49ers.",
+    "params": {
+      "team_a": "NYJ",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-NYJ-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jets and the Buccaneers.",
+    "params": {
+      "team_a": "NYJ",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-NYJ-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jets and the Titans.",
+    "params": {
+      "team_a": "NYJ",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-NYJ-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Jets and the Commanders.",
+    "params": {
+      "team_a": "NYJ",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-PHI-PIT",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Eagles and the Steelers.",
+    "params": {
+      "team_a": "PHI",
+      "team_b": "PIT"
+    }
+  },
+  {
+    "id": "teams-PHI-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Eagles and the Seahawks.",
+    "params": {
+      "team_a": "PHI",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-PHI-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Eagles and the 49ers.",
+    "params": {
+      "team_a": "PHI",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-PHI-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Eagles and the Buccaneers.",
+    "params": {
+      "team_a": "PHI",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-PHI-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Eagles and the Titans.",
+    "params": {
+      "team_a": "PHI",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-PHI-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Eagles and the Commanders.",
+    "params": {
+      "team_a": "PHI",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-PIT-SEA",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Steelers and the Seahawks.",
+    "params": {
+      "team_a": "PIT",
+      "team_b": "SEA"
+    }
+  },
+  {
+    "id": "teams-PIT-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Steelers and the 49ers.",
+    "params": {
+      "team_a": "PIT",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-PIT-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Steelers and the Buccaneers.",
+    "params": {
+      "team_a": "PIT",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-PIT-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Steelers and the Titans.",
+    "params": {
+      "team_a": "PIT",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-PIT-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Steelers and the Commanders.",
+    "params": {
+      "team_a": "PIT",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-SEA-SF",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Seahawks and the 49ers.",
+    "params": {
+      "team_a": "SEA",
+      "team_b": "SF"
+    }
+  },
+  {
+    "id": "teams-SEA-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Seahawks and the Buccaneers.",
+    "params": {
+      "team_a": "SEA",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-SEA-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Seahawks and the Titans.",
+    "params": {
+      "team_a": "SEA",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-SEA-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Seahawks and the Commanders.",
+    "params": {
+      "team_a": "SEA",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-SF-TB",
+    "template": "two_teams",
+    "text": "Name a player who played for both the 49ers and the Buccaneers.",
+    "params": {
+      "team_a": "SF",
+      "team_b": "TB"
+    }
+  },
+  {
+    "id": "teams-SF-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the 49ers and the Titans.",
+    "params": {
+      "team_a": "SF",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-SF-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the 49ers and the Commanders.",
+    "params": {
+      "team_a": "SF",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-TB-TEN",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Buccaneers and the Titans.",
+    "params": {
+      "team_a": "TB",
+      "team_b": "TEN"
+    }
+  },
+  {
+    "id": "teams-TB-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Buccaneers and the Commanders.",
+    "params": {
+      "team_a": "TB",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "teams-TEN-WAS",
+    "template": "two_teams",
+    "text": "Name a player who played for both the Titans and the Commanders.",
+    "params": {
+      "team_a": "TEN",
+      "team_b": "WAS"
+    }
+  },
+  {
+    "id": "rushing100-ARI",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Cardinals.",
+    "params": {
+      "opponent": "ARI",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-ARI",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Cardinals.",
+    "params": {
+      "opponent": "ARI",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-ATL",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Falcons.",
+    "params": {
+      "opponent": "ATL",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-ATL",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Falcons.",
+    "params": {
+      "opponent": "ATL",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-BAL",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Ravens.",
+    "params": {
+      "opponent": "BAL",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-BAL",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Ravens.",
+    "params": {
+      "opponent": "BAL",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-BUF",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Bills.",
+    "params": {
+      "opponent": "BUF",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-BUF",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Bills.",
+    "params": {
+      "opponent": "BUF",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-CAR",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Panthers.",
+    "params": {
+      "opponent": "CAR",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-CAR",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Panthers.",
+    "params": {
+      "opponent": "CAR",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-CHI",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Bears.",
+    "params": {
+      "opponent": "CHI",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-CHI",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Bears.",
+    "params": {
+      "opponent": "CHI",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-CIN",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Bengals.",
+    "params": {
+      "opponent": "CIN",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-CIN",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Bengals.",
+    "params": {
+      "opponent": "CIN",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-CLE",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Browns.",
+    "params": {
+      "opponent": "CLE",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-CLE",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Browns.",
+    "params": {
+      "opponent": "CLE",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-DAL",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Cowboys.",
+    "params": {
+      "opponent": "DAL",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-DAL",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Cowboys.",
+    "params": {
+      "opponent": "DAL",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-DEN",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Broncos.",
+    "params": {
+      "opponent": "DEN",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-DEN",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Broncos.",
+    "params": {
+      "opponent": "DEN",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-DET",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Lions.",
+    "params": {
+      "opponent": "DET",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-DET",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Lions.",
+    "params": {
+      "opponent": "DET",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-GB",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Packers.",
+    "params": {
+      "opponent": "GB",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-GB",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Packers.",
+    "params": {
+      "opponent": "GB",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-HOU",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Texans.",
+    "params": {
+      "opponent": "HOU",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-HOU",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Texans.",
+    "params": {
+      "opponent": "HOU",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-IND",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Colts.",
+    "params": {
+      "opponent": "IND",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-IND",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Colts.",
+    "params": {
+      "opponent": "IND",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-JAX",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Jaguars.",
+    "params": {
+      "opponent": "JAX",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-JAX",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Jaguars.",
+    "params": {
+      "opponent": "JAX",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-KC",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Chiefs.",
+    "params": {
+      "opponent": "KC",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-KC",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Chiefs.",
+    "params": {
+      "opponent": "KC",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-LA",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Rams.",
+    "params": {
+      "opponent": "LA",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-LA",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Rams.",
+    "params": {
+      "opponent": "LA",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-LAC",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Chargers.",
+    "params": {
+      "opponent": "LAC",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-LAC",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Chargers.",
+    "params": {
+      "opponent": "LAC",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-LV",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Raiders.",
+    "params": {
+      "opponent": "LV",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-LV",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Raiders.",
+    "params": {
+      "opponent": "LV",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-MIA",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Dolphins.",
+    "params": {
+      "opponent": "MIA",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-MIA",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Dolphins.",
+    "params": {
+      "opponent": "MIA",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-MIN",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Vikings.",
+    "params": {
+      "opponent": "MIN",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-MIN",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Vikings.",
+    "params": {
+      "opponent": "MIN",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-NE",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Patriots.",
+    "params": {
+      "opponent": "NE",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-NE",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Patriots.",
+    "params": {
+      "opponent": "NE",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-NO",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Saints.",
+    "params": {
+      "opponent": "NO",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-NO",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Saints.",
+    "params": {
+      "opponent": "NO",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-NYG",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Giants.",
+    "params": {
+      "opponent": "NYG",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-NYG",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Giants.",
+    "params": {
+      "opponent": "NYG",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-NYJ",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Jets.",
+    "params": {
+      "opponent": "NYJ",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-NYJ",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Jets.",
+    "params": {
+      "opponent": "NYJ",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-PHI",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Eagles.",
+    "params": {
+      "opponent": "PHI",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-PHI",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Eagles.",
+    "params": {
+      "opponent": "PHI",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-PIT",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Steelers.",
+    "params": {
+      "opponent": "PIT",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-PIT",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Steelers.",
+    "params": {
+      "opponent": "PIT",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-SEA",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Seahawks.",
+    "params": {
+      "opponent": "SEA",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-SEA",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Seahawks.",
+    "params": {
+      "opponent": "SEA",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-SF",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the 49ers.",
+    "params": {
+      "opponent": "SF",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-SF",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the 49ers.",
+    "params": {
+      "opponent": "SF",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-TB",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Buccaneers.",
+    "params": {
+      "opponent": "TB",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-TB",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Buccaneers.",
+    "params": {
+      "opponent": "TB",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-TEN",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Titans.",
+    "params": {
+      "opponent": "TEN",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-TEN",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Titans.",
+    "params": {
+      "opponent": "TEN",
+      "stat": "receiving"
+    }
+  },
+  {
+    "id": "rushing100-WAS",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard rushing game against the Commanders.",
+    "params": {
+      "opponent": "WAS",
+      "stat": "rushing"
+    }
+  },
+  {
+    "id": "receiving100-WAS",
+    "template": "hundred_yards",
+    "text": "Name a player who had a 100-yard receiving game against the Commanders.",
+    "params": {
+      "opponent": "WAS",
+      "stat": "receiving"
+    }
+  }
+]
