@@ -1,0 +1,28 @@
+how our game can quickly fix typos
+
+i found an easy way that apps use to assume what word you mean
+
+1. check the word as typed
+If someone types "elephant" and it’s on our list it’s accepted right away
+
+2. Look for close spellings
+Before the game starts we make a lookup table. For each word we save
+versions with one letter removed. For example, if we drop the "n" from
+"elephant", we get "elephat". We save that "elephat" points to "elephant".
+
+Now say someone types "elephnat". We try dropping one letter at a time.
+Dropping the "n" also gives us "elephat". The table points us to "elephant".
+We check the two words and see that two letters were swapped.
+
+3. Fix clear typos and ask when it’s a close call.
+If there’s one clear match, we can fix it and show the corrected word.
+If a few words are close, we can show them and let the player pick. (I prefer not)
+We can put the closest spellings first and use common words to break ties.
+If nothing is close, we ask the player to try again.
+
+This method is called SymSpell. It’s fast because we build the table once.
+During play, we check a few short spellings and compare the matches.
+There’s no need for an AI call or a scan of the full word list.
+
+The spell check just helps us settle on a word. Once we have that word,
+we can just send it to our game’s ranking system.
